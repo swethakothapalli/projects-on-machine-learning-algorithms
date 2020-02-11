@@ -8,10 +8,12 @@ Extraction was done by Barry Becker from the 1994 Census database. A set of reas
 Prediction task is to determine whether a person makes over 50K a year.
 
 # algorithms used:
-used logistic regression, Random Forest, Naive Bayes and choose best one out of them
+used logistic regression, Random Forest, Naive Bayes and choosed best one out of them
 
 # Model Evaluation: 
 
 For evaluating model used cross val score
+
+# model saving
 
 finally saved the model as a okl object.
